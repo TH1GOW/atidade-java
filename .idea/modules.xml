@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Empresa de ti.iml" filepath="$PROJECT_DIR$/.idea/Empresa de ti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atv02_pontuacao/atv02_pontuacao.iml" filepath="$PROJECT_DIR$/atv02_pontuacao/atv02_pontuacao.iml" />
+    </modules>
+  </component>
+</project>
